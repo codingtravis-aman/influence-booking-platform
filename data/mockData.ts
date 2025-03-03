@@ -3,8 +3,8 @@ export const influencerData = [
   {
     id: '1',
     name: 'Priya Sharma',
-    profilePic: 'https://api.a0.dev/assets/image?text=portrait%20of%20an%20indian%20female%20fashion%20influencer&aspect=1:1&seed=1',
-    coverImage: 'https://api.a0.dev/assets/image?text=fashion%20influencer%20posing%20with%20city%20skyline&aspect=16:9&seed=10',
+    profilePic: 'https://api.dev/assets/image?text=portrait%20of%20an%20indian%20female%20fashion%20influencer&aspect=1:1&seed=1',
+    coverImage: 'https://api.dev/assets/image?text=fashion%20influencer%20posing%20with%20city%20skyline&aspect=16:9&seed=10',
     platform: 'Instagram',
     followers: '1.2M',
     engagementRate: 4.8,
@@ -28,8 +28,8 @@ export const influencerData = [
   {
     id: '2',
     name: 'Vikram Mehta',
-    profilePic: 'https://api.a0.dev/assets/image?text=portrait%20of%20an%20indian%20male%20tech%20influencer&aspect=1:1&seed=2',
-    coverImage: 'https://api.a0.dev/assets/image?text=tech%20influencer%20reviewing%20gadgets%20in%20modern%20studio&aspect=16:9&seed=20',
+    profilePic: 'https://api.dev/assets/image?text=portrait%20of%20an%20indian%20male%20tech%20influencer&aspect=1:1&seed=2',
+    coverImage: 'https://api.dev/assets/image?text=tech%20influencer%20reviewing%20gadgets%20in%20modern%20studio&aspect=16:9&seed=20',
     platform: 'YouTube',
     followers: '850K',
     engagementRate: 6.2,
@@ -40,7 +40,7 @@ export const influencerData = [
     bio: 'Tech reviewer and gadget enthusiast. Creating in-depth reviews and unboxing videos of the latest tech products.',
     availability: ['Tue', 'Wed', 'Fri', 'Sun'],
     recentWork: [
-      { id: 'w1', brand: 'OnePlus', image: 'https://api.a0.dev/assets/image?text=tech%20influencer%20holding%20smartphone&aspect=4:5&seed=201' },
+      { id: 'w1', brand: 'OnePlus', image: 'https://api.dev/assets/image?text=tech%20influencer%20holding%20smartphone&aspect=4:5&seed=201' },
       { id: 'w2', brand: 'Boat', image: 'https://api.a0.dev/assets/image?text=man%20reviewing%20headphones%20in%20studio&aspect=4:5&seed=202' },
       { id: 'w3', brand: 'Samsung', image: 'https://api.a0.dev/assets/image?text=tech%20reviewer%20with%20latest%20gadgets&aspect=4:5&seed=203' },
     ],
@@ -53,8 +53,8 @@ export const influencerData = [
   {
     id: '3',
     name: 'Aarav Fitness',
-    profilePic: 'https://api.a0.dev/assets/image?text=portrait%20of%20muscular%20indian%20fitness%20influencer&aspect=1:1&seed=3',
-    coverImage: 'https://api.a0.dev/assets/image?text=fitness%20influencer%20working%20out%20in%20gym&aspect=16:9&seed=30',
+    profilePic: 'https://api.dev/assets/image?text=portrait%20of%20muscular%20indian%20fitness%20influencer&aspect=1:1&seed=3',
+    coverImage: 'https://api.dev/assets/image?text=fitness%20influencer%20working%20out%20in%20gym&aspect=16:9&seed=30',
     platform: 'Instagram',
     followers: '680K',
     engagementRate: 5.7,
@@ -65,7 +65,7 @@ export const influencerData = [
     bio: 'Certified fitness trainer and nutrition expert. Helping people transform their bodies and lifestyles through workout routines and diet plans.',
     availability: ['Mon', 'Tue', 'Thu', 'Fri', 'Sat'],
     recentWork: [
-      { id: 'w1', brand: 'MyProtein', image: 'https://api.a0.dev/assets/image?text=fitness%20influencer%20with%20protein%20supplements&aspect=4:5&seed=301' },
+      { id: 'w1', brand: 'MyProtein', image: 'https://api.dev/assets/image?text=fitness%20influencer%20with%20protein%20supplements&aspect=4:5&seed=301' },
       { id: 'w2', brand: 'Nike', image: 'https://api.a0.dev/assets/image?text=muscular%20man%20in%20workout%20clothes%20at%20gym&aspect=4:5&seed=302' },
       { id: 'w3', brand: 'Fitbit', image: 'https://api.a0.dev/assets/image?text=fitness%20model%20checking%20smartwatch%20during%20workout&aspect=4:5&seed=303' },
     ],
@@ -78,7 +78,7 @@ export const influencerData = [
   {
     id: '4',
     name: 'Meera Patel',
-    profilePic: 'https://api.a0.dev/assets/image?text=portrait%20of%20indian%20female%20beauty%20influencer&aspect=1:1&seed=4',
+    profilePic: 'https://api.dev/assets/image?text=portrait%20of%20indian%20female%20beauty%20influencer&aspect=1:1&seed=4',
     coverImage: 'https://api.a0.dev/assets/image?text=beauty%20influencer%20showing%20makeup%20techniques&aspect=16:9&seed=40',
     platform: 'Instagram',
     followers: '950K',
@@ -91,7 +91,7 @@ export const influencerData = [
     availability: ['Wed', 'Thu', 'Fri', 'Sun'],
     recentWork: [
       { id: 'w1', brand: 'Nykaa', image: 'https://api.a0.dev/assets/image?text=beauty%20influencer%20applying%20makeup&aspect=4:5&seed=401' },
-      { id: 'w2', brand: 'Sugar', image: 'https://api.a0.dev/assets/image?text=woman%20with%20various%20cosmetic%20products&aspect=4:5&seed=402' },
+      { id: 'w2', brand: 'Sugar', image: 'https://api.dev/assets/image?text=woman%20with%20various%20cosmetic%20products&aspect=4:5&seed=402' },
       { id: 'w3', brand: 'Maybelline', image: 'https://api.a0.dev/assets/image?text=beauty%20content%20creator%20filming%20tutorial&aspect=4:5&seed=403' },
     ],
     packages: [
@@ -115,7 +115,7 @@ export const influencerData = [
     bio: 'Full-time traveler exploring hidden gems across India and beyond. Specializes in budget travel guides and breathtaking photography.',
     availability: ['Mon', 'Tue', 'Wed', 'Sat'],
     recentWork: [
-      { id: 'w1', brand: 'MakeMyTrip', image: 'https://api.a0.dev/assets/image?text=travel%20content%20creator%20at%20beach%20resort&aspect=4:5&seed=501' },
+      { id: 'w1', brand: 'MakeMyTrip', image: 'https://api.dev/assets/image?text=travel%20content%20creator%20at%20beach%20resort&aspect=4:5&seed=501' },
       { id: 'w2', brand: 'GoIbibo', image: 'https://api.a0.dev/assets/image?text=man%20with%20backpack%20hiking%20in%20mountains&aspect=4:5&seed=502' },
       { id: 'w3', brand: 'Airbnb', image: 'https://api.a0.dev/assets/image?text=travel%20influencer%20in%20luxury%20hotel%20room&aspect=4:5&seed=503' },
     ],
